@@ -20,6 +20,8 @@ asf a
 * item 2
 * item 3
 
-esta palabra esta en negrilla.
-esta palabra esta en italica.
+esta palabra esta en **negrilla**.
+
+esta palabra esta en *italica*.
+
 www.google.com
